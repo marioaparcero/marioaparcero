@@ -9,8 +9,8 @@ I'm a seasoned SysAdmin with a passion for open-source technologies, cybersecuri
 <table>
   <tr>
     <td align="center"><strong>OS & Distros 🖥️</strong></td>
-    <td align="center"><strong>Automatización 🤖</strong></td>
-    <td align="center"><strong>Contenedores & Virtualización 📦</strong></td>
+    <td align="center"><strong>Automation 🤖</strong></td>
+    <td align="center"><strong>Containers & Virtualization 📦</strong></td>
   </tr>
   <tr>
     <td valign="top">
@@ -37,8 +37,8 @@ I'm a seasoned SysAdmin with a passion for open-source technologies, cybersecuri
 <table>
   <tr>
     <td align="center"><strong>Cloud ☁️</strong></td>
-    <td align="center"><strong>Redes & Seguridad 🔐</strong></td>
-    <td align="center"><strong>Web & Desarrollo 💻</strong></td>
+    <td align="center"><strong>Networking & Security 🔐</strong></td>
+    <td align="center"><strong>Web & Development 💻</strong></td>
   </tr>
   <tr>
     <td valign="top">
@@ -66,9 +66,9 @@ I'm a seasoned SysAdmin with a passion for open-source technologies, cybersecuri
 
 <table>
   <tr>
-    <td align="center"><strong>Bases de datos 🗄️</strong></td>
+    <td align="center"><strong>Databases 🗄️</strong></td>
     <td align="center"><strong>DevOps & Version Control 🔄</strong></td>
-    <td align="center"><strong>Colaboración & Gestión 📋</strong></td>
+    <td align="center"><strong>Collaboration & Management 📋</strong></td>
   </tr>
   <tr>
     <td valign="top">
@@ -115,9 +115,9 @@ I'm a seasoned SysAdmin with a passion for open-source technologies, cybersecuri
   </tr>
 </table>
 
-## 📫 Contacto
+## 📫 Contact
 
-¿Quieres colaborar o tienes alguna consulta técnica?
+Do you want to collaborate or have a technical question?
 
 - 📧 Email: marioaparcero@hotmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/marioaparcero](https://linkedin.com/in/marioaparcero)  
@@ -125,8 +125,8 @@ I'm a seasoned SysAdmin with a passion for open-source technologies, cybersecuri
 
 ---
 
-_Disfruto automatizando problemas reales, aprendiendo cada día algo nuevo y construyendo infraestructuras resilientes y seguras._
+_I enjoy automating real-world problems, learning something new every day, and building resilient and secure infrastructures._
 
 ---
 
-> 🔍 *“La automatización no es el futuro. Es el presente bien hecho.”*
+> 🔍 *“Automation is not the future. It's the present done right.”*
